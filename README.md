@@ -1,1 +1,2 @@
-# skills-release-based-workflow
+## Version
+Current version:0.1.0-beta
